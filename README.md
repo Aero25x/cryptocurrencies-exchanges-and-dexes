@@ -6,4 +6,4 @@
 
 # cryptocurrencies-exchanges-and-dexes
 
-Feel free to use thos cryptocurrencies svg logos in Your projects
+Feel free to use thos cryptocurrencies svg logos in Your projects, **just add link to this repo**
